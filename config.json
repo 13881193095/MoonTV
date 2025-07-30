@@ -8,15 +8,15 @@
     },
     "baidu": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度云资源",
+      "name": "百度云资源"
     },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源",
+      "name": "iqiyi资源"
     }, 
     "hwba": {
       "api": "https://cjhwba.com/api.php/provide/vod",
-      "name": "华为吧资源",
+      "name": "华为吧资源"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
